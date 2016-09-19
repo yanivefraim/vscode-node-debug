@@ -1,5 +1,5 @@
 import {expect} from 'chai';
-import mult from '../file.js';
+import mult from '../file-b.js';
 
 debugger
 describe('mult', () => {
